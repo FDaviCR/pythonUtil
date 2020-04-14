@@ -1,2 +1,7 @@
-def soma(a,b):
-    print(a+b)
+class Matematica:
+
+    def ad(a,b):
+        print(a+b)
+
+    def sub(a,b):
+        print(a-b)
