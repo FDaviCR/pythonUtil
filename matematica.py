@@ -7,4 +7,8 @@ class Matematica:
         print(a-b)
 
     def mult(a,b):
-        print(a*b) 
+        print(a*b)
+
+    def div(a,b):
+        print(a/b)
+        
