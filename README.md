@@ -1,3 +1,3 @@
 # PythonBasic
 
-Códigos aleatorios usados em testes de bibliotecas python.
+Códigos simples usados em testes de bibliotecas python ou para uso em aplicações maiores.
