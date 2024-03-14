@@ -1,3 +1,3 @@
-# Python Basic
+# Python Util 🐍🐍🐍
 
-Códigos simples usados em testes de bibliotecas python ou para uso em aplicações maiores.
+Repósitorio de códigos usados em testes de bibliotecas python ou para exemplo de uso. 🐍
