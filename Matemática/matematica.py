@@ -1,4 +1,4 @@
-//Operações matemáticas
+#Operações matemáticas
 
 class Matematica:
 
